@@ -73,40 +73,40 @@ Skill-Node/
 
 ## **⚙️ Installation & Setup**
 ### **1. Clone the repo**
-```bash
-git clone https://github.com/gunjitdhakar15/Skill-Node.git
+
+```git clone https://github.com/gunjitdhakar15/Skill-Node.git```
 
 2. Install dependencies
 
 Backend
 
-cd backend
-npm install
+```cd backend```
+```npm install```
 
 Frontend
 
-cd frontend
-npm install
+```cd frontend```
+```npm install```
 
 3. Environment Variables
 
 Create .env in backend/:
 
-MONGO_URI=your_mongodb_connection_string
-JWT_SECRET=your_jwt_secret
+```MONGO_URI=your_mongodb_connection_string```
+```JWT_SECRET=your_jwt_secret```
 
 4. Run locally
 
 Backend
 
-cd backend
-npm run dev
+```cd backend```
+```npm run dev```
 
 
 Frontend
 
-cd frontend
-npm run dev
+```cd frontend```
+```npm run dev```
 
 <img width="1919" height="846" alt="image" src="https://github.com/user-attachments/assets/080bcd8a-dc68-479a-b678-8c634f2e7f9e" />
 
@@ -114,13 +114,3 @@ npm run dev
 📜 License
 
 MIT License
-
-
-Do you want me to now **take clean screenshots** from your live Skill Node site so you can insert them in the “📸 Screenshots” section before pushing to GitHub? That would make it much more visually appealing to the NoFeeSwap team.
-
-
-
-
-##
- **📂 Folder Structure**
-## **📂 Folder Structure**
